@@ -81,7 +81,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Use calculator**
+- **React App**
 
 
 
@@ -89,7 +89,7 @@
 
 #### 🔭 Future Features <a name="future-features"></a>
 
-- [React App] ****
+- [] ****
 - [ ] ****
 
 <!-- LIVE DEMO -->
@@ -121,7 +121,7 @@ Clone this repository to your desired folder:
 
 ```sh
   git clone https://github.com/Wahaj-Ali/maths-magicians.git
-  cd math_magiacian_react
+  cd maths-magiacians
 ```
 
 ### Install
@@ -180,7 +180,6 @@ You can deploy this project using [Github Pages](https://docs.github.com/en/page
 
 <!-- FUTURE FEATURES -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
@@ -196,7 +195,7 @@ Feel free to check the [issues page](https://github.com/Wahaj-Ali/maths-magician
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project give me a star.
+A satr to this repo would be appreciated.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
