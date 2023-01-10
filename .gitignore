@@ -29,3 +29,4 @@ yarn-error.log*
 .eslintrc.json
 .vscode
 .eslintrc.json
+*.json
