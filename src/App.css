@@ -1,39 +1,49 @@
-.App {
-  text-align: center;
+html,
+body {
+    height: 100%;
+    min-height: 100%;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Roboto, sans-serif;
+    background: linear-gradient(#8b9da9, #fff6e4)
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.calculator {
+  max-width: 320px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.calculator__display {
+  padding: 10px;
+  font-size: 4em;
+  text-align: right;
+  background-color: grey;
+}
+
+.calculatorUI {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  flex-wrap: wrap;
+  /* mix-blend-mode: overlay; */
 }
 
-.App-link {
-  color: #61dafb;
+button {
+  flex: 0 1 25%;
+  height: 70px;
+  color: #111;
+  font-size: 2em;
+  /* mix-blend-mode: overlay; */
+  background: #e0e0e0;
+  border: 1px solid #c7c7c7;
+  cursor: pointer;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
+.btn--opaque {
+  background-color: #f5913e;
+}
 
-  to {
-    transform: rotate(360deg);
-  }
+.btn--large {
+  flex: 0 1 50%;
 }
