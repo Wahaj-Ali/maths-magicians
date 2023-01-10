@@ -9,7 +9,7 @@ body {
   justify-content: center;
   align-items: center;
   font-family: Roboto, sans-serif;
-  background: linear-gradient(#8b9da9, #fff6e4)
+  background: linear-gradient(#8b9da9, #fff6e4);
 }
 
 .calculator {
@@ -26,7 +26,6 @@ body {
 .calculatorUI {
   display: flex;
   flex-wrap: wrap;
-  /* mix-blend-mode: overlay; */
 }
 
 button {
@@ -34,7 +33,6 @@ button {
   height: 70px;
   color: #111;
   font-size: 2em;
-  /* mix-blend-mode: overlay; */
   background: #e0e0e0;
   border: 1px solid #c7c7c7;
   cursor: pointer;
