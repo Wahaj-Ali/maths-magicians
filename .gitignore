@@ -21,3 +21,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+# linters
+
+.stylelintrc.json
+.eslintrc.json
+.vscode
+.eslintrc.json
+*.json
