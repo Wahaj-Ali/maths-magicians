@@ -1,0 +1,43 @@
+.calPage {
+  display: flex;
+  justify-content: center;
+  padding: 15px;
+}
+
+.calculator {
+  display: flex;
+  max-width: 320px;
+  align-self: center;
+  flex-wrap: nowrap;
+  padding: 0 90px;
+}
+
+.calculator__display {
+  padding: 10px;
+  font-size: 4em;
+  text-align: right;
+  background-color: grey;
+}
+
+.calculatorUI {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+button {
+  flex: 0 1 25%;
+  height: 70px;
+  color: #111;
+  font-size: 2em;
+  background: #e0e0e0;
+  border: 1px solid #c7c7c7;
+  cursor: pointer;
+}
+
+.btn--opaque {
+  background-color: #f5913e;
+}
+
+.btn--large {
+  flex: 0 1 50%;
+}

@@ -1,0 +1,25 @@
+.navBar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+  color: bisque;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+a:hover {
+  color: brown;
+}
+
+.link {
+  list-style: none;
+  font-size: 1.8rem;
+}
+
+.links {
+  display: flex;
+  gap: 1rem;
+}

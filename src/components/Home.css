@@ -1,0 +1,11 @@
+.homePage {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 20px;
+  margin: 20px;
+}
+
+.homeHeading {
+  font-size: 1.7rem;
+}
