@@ -1,8 +1,9 @@
 import React from 'react';
+import './Header.css';
 
 const Header = () => (
   <div>
-    <h1 className="bigHeading">Math Magicians</h1>
+    <h1 className="title">Math Magicians</h1>
   </div>
 );
 

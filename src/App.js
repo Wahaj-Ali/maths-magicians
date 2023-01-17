@@ -21,7 +21,7 @@ class App extends Component {
           <Navbar />
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="/calculator" element={<Calculator />} />
+            <Route path="/calculator" element={(<Calculator />)} />
             <Route path="/Quote" element={<Quote />} />
           </Routes>
         </Router>
