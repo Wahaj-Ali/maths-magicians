@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly when there are no items 1`] = `
+<div
+  className="quotePage"
+>
+  <p>
+    Without mathematics, there’s nothing you can do. Everything around you is mathematics. Everything around you is numbers.
+  </p>
+  <big>
+    <b>
+      Shakuntala Devi, Indian writer and mental calculator
+    </b>
+  </big>
+</div>
+`;
