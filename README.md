@@ -11,7 +11,7 @@
   <h1>Math magician</h1>
 
 
-> This is the first project of the Math Magicians application. I set up the environment and tools needed to develop a React application.
+> "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) with 3 sub-pages. It allows users to make simple calculations.
 
 </div>
 
@@ -41,7 +41,7 @@
 
 # 📖 Math magicians <a name="about-project"></a>
 
->This is the first project of the Math Magicians application. I set up the environment and tools needed to develop a React application.
+>"Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) with 3 sub-pages. It allows users to make simple calculations.
 
 **Math magicians Raect-App**
 
