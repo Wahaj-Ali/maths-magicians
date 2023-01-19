@@ -82,7 +82,7 @@
 - **React Components**
 - **React Events**
 - **React hooks**
-- **Full website**
+- **Full website(SPA)**
 - **Inculdes Tests**
 - **Website Deployement**
 
