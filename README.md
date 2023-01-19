@@ -24,9 +24,7 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-      - [🔭 Future Features ](#-future-features-)
   - [🚀 Live Demo ](#-live-demo-)
-  - [🚀 Video Project Presentation ](#-video-project-presentation-)
   - [💻 Getting Started ](#-getting-started-)
     - [Setup](#setup)
     - [Install](#install)
@@ -81,16 +79,18 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **React App**
+- **React Components**
+- **React Events**
+- **React hooks**
+- **Full website**
+- **Inculdes Tests**
+- **Website Deployement**
 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-#### 🔭 Future Features <a name="future-features"></a>
 
-- [] ****
-- [ ] ****
 
 <!-- LIVE DEMO -->
 
@@ -99,13 +99,6 @@
 - <a href="https://wahaj-mathsmagician.netlify.app/" target="_blank">Live Demo Link</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Video Project Presentation <a name="live-demo"></a>
-
-- <a href="#" target="_blank">-Video Project Presentation Link</a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 
@@ -162,7 +155,8 @@ To to build for the production, execute the following command:
 
 ### Deployment
 
-You can deploy this project using [Github Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
+- I useed [netlify](https://www.netlify.com/) to deploy my website.
+- You can deploy this project using [Github Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -178,7 +172,6 @@ You can deploy this project using [Github Pages](https://docs.github.com/en/page
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
 
 
 <!-- CONTRIBUTING -->
@@ -204,7 +197,7 @@ A satr to this repo would be appreciated.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-Thanks to our friend [Lucas](https://github.com/Lucash2022) for a his help to set up the react-app correctly.
+Thanks to my friend [ELOUARDY](https://github.com/codehass) for a his help to set up the tests for the App. We both worked in pair-programming activity to create tests using Jest and React Testing Library.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
