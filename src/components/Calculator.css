@@ -14,9 +14,10 @@
 
 .calculator__display {
   padding: 10px;
-  font-size: 4em;
+  font-size: 1.3em;
   text-align: right;
   background-color: grey;
+  overflow: hidden;
 }
 
 .calculatorUI {
@@ -31,7 +32,10 @@ button {
   font-size: 2em;
   background: #e0e0e0;
   border: 1px solid #c7c7c7;
-  cursor: pointer;
+}
+
+button:hover {
+  border: 2px solid #b42e10;
 }
 
 .btn--opaque {
@@ -40,4 +44,10 @@ button {
 
 .btn--large {
   flex: 0 1 50%;
+}
+
+@media only screen and (max-width: 768px) {
+  .calculator {
+    padding: 0;
+  }
 }

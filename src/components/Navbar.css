@@ -23,3 +23,13 @@ a:hover {
   display: flex;
   gap: 1rem;
 }
+
+@media only screen and (max-width: 768px) {
+  .title {
+    font-size: 1.8rem;
+  }
+
+  .navBar {
+    display: block;
+  }
+}
